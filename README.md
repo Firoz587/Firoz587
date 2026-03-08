@@ -54,26 +54,31 @@ My interest in competitive programming keeps my problem-solving skills sharp. I 
 
 ## 🌐 Connect with me:
 
+
 <p align="left">
-  <a href="https://github.com/Firoz587" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
-  &nbsp;
-  <a href="mailto:mdfirozislam940@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/your-handle" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/your-channel" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
   </a>
 </p>
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Firoz587&label=Profile%20Views&color=58a6ff&style=flat" alt="Firoz587" />
-</p>
