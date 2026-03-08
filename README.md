@@ -56,28 +56,20 @@ My interest in competitive programming keeps my problem-solving skills sharp. I 
 
 
 <p align="left">
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/md-firoz-islam-486ab4325/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/mdfiroz.islam.756" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/your-handle" target="_blank">
+  <a href="https://www.instagram.com/mdfirozislam587/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/your-channel" target="_blank">
+  <a href="https://www.youtube.com/@snr-fm2730" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/your-id" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
   </a>
 </p>
 
