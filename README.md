@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://portfolio-sage-zeta-15.vercel.app" target="_blank">🌐 Portfolio Website</a> • 
-  <a href="https://linkedin.com/in/md-firoz-islam-486ab4325" target="_blank">💼 LinkedIn Profile</a> • 
+  <a href="https://www.firozislam.me" target="_blank">🌐 Website: firozislam.me</a> • 
+  <a href="https://www.linkedin.com/in/md-firoz-islam-486ab4325/" target="_blank">💼 LinkedIn Profile</a> • 
   <a href="mailto:mdfirozislam940@gmail.com">📧 Contact Me</a>
 </p>
 
@@ -17,6 +17,7 @@ I am a passionate **Python Developer** working full-time at **TocoLabs**, specia
 With a strong foundation in **Competitive Programming (CodeChef 3★)**, I excel at solving complex logic, optimizing workflows, and building scalable data-driven software solutions.
 
 - 💼 **Current Role:** Python Developer at **TocoLabs**
+- 🌐 **Portfolio:** [firozislam.me](https://www.firozislam.me)
 - 🔭 **Working On:** Scalable web scraping pipelines, automation bots, and LLM-powered applications
 - 🎯 **Tech Focus:** Python, FastAPI, Django REST Framework, LangChain, Vector DBs, Playwright, Selenium
 - 🏆 **Problem Solving:** CodeChef 3★ (Max Rating: 1615) | Codeforces Pupil
@@ -54,16 +55,7 @@ With a strong foundation in **Competitive Programming (CodeChef 3★)**, I excel
 
 ---
 
-### 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firoz587&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz587&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 Competitive Programming
+### 🏆 Competitive Programming & Profiles
 
 <p align="left">
   <a href="https://www.codechef.com/users/firoz_587" target="_blank">
@@ -80,24 +72,20 @@ With a strong foundation in **Competitive Programming (CodeChef 3★)**, I excel
 ### 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://www.firozislam.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-firozislam.me-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-firoz-islam-486ab4325/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-Md_Firoz_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://portfolio-sage-zeta-15.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="38" width="38" />
-  </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/mdfiroz.islam.756" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="38" width="38" />
+    <img src="https://img.shields.io/badge/Facebook-Firoz-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/mdfirozislam587/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="38" width="38" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@snr-fm2730" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="38" width="38" />
+    <img src="https://img.shields.io/badge/Instagram-@mdfirozislam587-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
