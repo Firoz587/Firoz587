@@ -1,76 +1,108 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Firoz;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Firoz+Islam;Python+Developer+%40+TocoLabs;AI+Engineering+Enthusiast+(RAG+%26+LLMs);Competitive+Programmer+(CodeChef+3%E2%98%85);" alt="Typing SVG" />
 </h1>
 
----
-
-✍️ Love to **Write code**  
-🌐 Website https://portfolio-sage-zeta-15.vercel.app  
-💬 Ask me about anything, I am happy to help :)
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer from **Bangladesh 🇧🇩** with hands-on experience in Python programming, web development, data analysis, and web automation. I enjoy building tools that solve real problems — from scraping and automating workflows to crafting clean, functional web applications.
-
-My interest in competitive programming keeps my problem-solving skills sharp. I regularly practice on **Codeforces** and love tackling algorithmic challenges with C++. Whether it's building a Django backend, automating a browser task with Selenium, or digging into data with Pandas and Jupyter — I'm always ready to learn and build.
-
----
-
-## 🛠️ Languages and Tools:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42"/></a>
+<p align="center">
+  <a href="https://portfolio-sage-zeta-15.vercel.app" target="_blank">🌐 Portfolio Website</a> • 
+  <a href="https://linkedin.com/in/md-firoz-islam-486ab4325" target="_blank">💼 LinkedIn Profile</a> • 
+  <a href="mailto:mdfirozislam940@gmail.com">📧 Contact Me</a>
 </p>
 
 ---
 
-## 🌐 Connect with me:
+### 🚀 About Me
 
+I am a passionate **Python Developer** working full-time at **TocoLabs**, specializing in **Web Scraping, Automation, REST API Development, and AI Engineering (RAG & LLM Systems)**. 
+
+With a strong foundation in **Competitive Programming (CodeChef 3★)**, I excel at solving complex logic, optimizing workflows, and building scalable data-driven software solutions.
+
+- 💼 **Current Role:** Python Developer at **TocoLabs**
+- 🔭 **Working On:** Scalable web scraping pipelines, automation bots, and LLM-powered applications
+- 🎯 **Tech Focus:** Python, FastAPI, Django REST Framework, LangChain, Vector DBs, Playwright, Selenium
+- 🏆 **Problem Solving:** CodeChef 3★ (Max Rating: 1615) | Codeforces Pupil
+- 🎓 **Education:** BSc in Computer Science at Northern University Bangladesh
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  
+  <!-- AI & Data -->
+  <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br/>
+
+  <!-- Automation & Tools -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firoz587&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz587&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://www.codechef.com/users/firoz_587" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1615)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Firoz_587" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil%20(1300%2B)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-firoz-islam-486ab4325/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-sage-zeta-15.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="38" width="38" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mdfiroz.islam.756" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="38" width="38" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mdfirozislam587/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="38" width="38" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@snr-fm2730" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="38" width="38" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to connect or check out my repositories.</i>
+</p>
