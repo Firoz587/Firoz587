@@ -20,7 +20,7 @@ With a strong foundation in **Competitive Programming (CodeChef 3★)**, I excel
 - 🌐 **Portfolio:** [firozislam.me](https://www.firozislam.me)
 - 🔭 **Working On:** Scalable web scraping pipelines, automation bots, and LLM-powered applications
 - 🎯 **Tech Focus:** Python, FastAPI, Django REST Framework, LangChain, Vector DBs, Playwright, Selenium
-- 🏆 **Problem Solving:** CodeChef 3★ (Max Rating: 1390) | Codeforces Pupil
+- 🏆 **Problem Solving:** CodeChef 3★ (Max Rating: 1615) | Codeforces Pupil
 - 🎓 **Education:** BSc in Computer Science at Northern University Bangladesh
 
 ---
